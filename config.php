@@ -2,6 +2,6 @@
 // Database configuration
 $host = 'localhost';
 $dbname = 'guestbook_db';
-$user = 'root'; // Change if necessary
-$pass = ''; // Change if necessary
+$username = 'root'; // Change if necessary
+$password = ''; // Change if necessary
 ?>
