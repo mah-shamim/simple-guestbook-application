@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Guestbook</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="js/main.js" defer></script>
 </head>
 <body>
