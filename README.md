@@ -39,4 +39,19 @@ A guestbook application where visitors can leave messages
 
 6. **Access the Application:**
    - Open your web browser and navigate to `http://localhost:8000`.
-   
+
+### File Structure
+
+Here’s a basic file structure for your to-do list application:
+
+```
+simple-guestbook-application/
+├── config.php
+├── index.php
+├── submit.php
+├── fetch.php
+├── style.css
+├── guestbook.sql
+└── js/
+    └── main.js
+```
