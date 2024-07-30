@@ -1,4 +1,4 @@
-# simple-guestbook-application
+# Simple Guestbook Application
 A guestbook application where visitors can leave messages
 
 **Topics**: PHP, MySQL, AJAX, CSS, Guestbook, Web Development
