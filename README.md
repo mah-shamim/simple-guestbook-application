@@ -51,7 +51,7 @@ simple-guestbook-application/
 ├── submit.php
 ├── fetch.php
 ├── css/
-    └── style.css
+│   └── style.css
 ├── guestbook.sql
 └── js/
     └── main.js
