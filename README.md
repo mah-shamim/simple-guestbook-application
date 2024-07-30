@@ -47,6 +47,7 @@ Here’s a basic file structure for your to-do list application:
 ```
 simple-guestbook-application/
 ├── config.php
+├── db.php
 ├── index.php
 ├── submit.php
 ├── fetch.php
