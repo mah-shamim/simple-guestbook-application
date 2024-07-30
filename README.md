@@ -28,7 +28,7 @@ A guestbook application where visitors can leave messages
      $servername = "localhost";
      $username = "yourusername";
      $password = "yourpassword";
-     $dbname = "guestbook";
+     $dbname = "guestbook_db";
      ```
 
 5. **Start a Local PHP Server:**
